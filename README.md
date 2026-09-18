@@ -102,15 +102,21 @@ Feedback from Part 1
 
 Screenshots
 
-(Insert screenshots of your website on Desktop, Tablet, and Mobile here)
+
 
 Desktop View
 Desktop Screenshot
+<img width="1905" height="959" alt="Screenshot 2026-09-18 150154" src="https://github.com/user-attachments/assets/24d52277-76be-4941-a931-d82d1ce7b694" />
+
 
 Tablet View
 Tablet Screenshot
+<img width="501" height="511" alt="Screenshot 2026-09-18 150256" src="https://github.com/user-attachments/assets/2d09a651-8228-47d8-807f-060981861a36" />
+
 
 Mobile View
 Mobile Screenshot
+<img width="504" height="606" alt="Screenshot 2026-09-18 153725" src="https://github.com/user-attachments/assets/683f1c61-2446-454d-82d0-4898ea4a2a17" />
+
 
 
