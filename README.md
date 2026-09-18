@@ -1,4 +1,5 @@
- Artisan's Hearth Bakery Website
+Part1
+Artisan's Hearth Bakery Website
 
 Project Overview
 This is a static website project for Artisan's Hearth Bakery, a fictional small business bakery based in Pretoria, South Africa. The website is built using HTML5, CSS3, and JavaScript, designed to establish an online presence for the bakery by showcasing products, telling the brand story, and facilitating customer enquiries.
