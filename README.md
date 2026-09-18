@@ -106,21 +106,23 @@ Screenshots
 
 
 Desktop View
-Desktop Screenshot
+
 <img width="1896" height="951" alt="Destop View" src="https://github.com/user-attachments/assets/bc5a04c7-af02-416c-ac26-1b65376ea849" />
 
 
 
+
 Tablet View
-Tablet Screenshot
+
 <img width="590" height="777" alt="Tablet View" src="https://github.com/user-attachments/assets/08855f7c-107b-4b2f-bf6f-9eda65baf340" />
 
 
+
 Mobile View
-Mobile Screenshot
+
 <img width="496" height="563" alt="Mobile View" src="https://github.com/user-attachments/assets/fb20a70c-8806-4264-9c33-58d1623295f8" />
 REFERENCE
-References
+
 - W3Schools. (2026). CSS Tutorial. [Online]. Available at: https://www.w3schools.com/css/
 - MDN Web Docs. (2026). CSS: Cascading Style Sheets. [Online]. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
 - Google Fonts. (2026). Browse Fonts. [Online]. Available at: https://fonts.google.com/
