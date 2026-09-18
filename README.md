@@ -106,17 +106,24 @@ Screenshots
 
 Desktop View
 Desktop Screenshot
-<img width="1905" height="959" alt="Screenshot 2026-09-18 150154" src="https://github.com/user-attachments/assets/24d52277-76be-4941-a931-d82d1ce7b694" />
+<img width="1896" height="951" alt="Destop View" src="https://github.com/user-attachments/assets/bc5a04c7-af02-416c-ac26-1b65376ea849" />
+
 
 
 Tablet View
 Tablet Screenshot
-<img width="501" height="511" alt="Screenshot 2026-09-18 150256" src="https://github.com/user-attachments/assets/2d09a651-8228-47d8-807f-060981861a36" />
+<img width="590" height="777" alt="Tablet View" src="https://github.com/user-attachments/assets/08855f7c-107b-4b2f-bf6f-9eda65baf340" />
 
 
 Mobile View
 Mobile Screenshot
-<img width="504" height="606" alt="Screenshot 2026-09-18 153725" src="https://github.com/user-attachments/assets/683f1c61-2446-454d-82d0-4898ea4a2a17" />
+<img width="496" height="563" alt="Mobile View" src="https://github.com/user-attachments/assets/fb20a70c-8806-4264-9c33-58d1623295f8" />
+REFERENCE
+References
+- W3Schools. (2026). CSS Tutorial. [Online]. Available at: https://www.w3schools.com/css/
+- MDN Web Docs. (2026). CSS: Cascading Style Sheets. [Online]. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
+- Google Fonts. (2026). Browse Fonts. [Online]. Available at: https://fonts.google.com/
+- Unsplash. (2026). Beautiful Free Images & Pictures. [Online]. Available at: https://unsplash.com/
 
 
 
